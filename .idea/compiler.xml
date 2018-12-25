@@ -17,10 +17,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="super-market" />
+        <module name="supermarket" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="super-market" target="1.8" />
+      <module name="supermarket" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
