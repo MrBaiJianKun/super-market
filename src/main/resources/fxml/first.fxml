@@ -14,7 +14,7 @@
     <children>
         <Label styleClass="radio-button" layoutX="201.0" layoutY="42.0" prefHeight="143.0" prefWidth="701.0" text="晨光超市欢迎您" textFill="#1a4744d6">
             <font>
-                <Font size="96.0" />
+                <Font size="96" />
             </font>
         </Label>
         <Button layoutX="67.0" layoutY="249.0" mnemonicParsing="false" prefHeight="150.0" prefWidth="172.0" text="个人信息">
